@@ -1,8 +1,5 @@
 ---
-title: "Untitled"
-author: "YOUR NAME HERE"
-date: "2/28/2020"
-output: html_document
+title: "Lesson-23-Visualization-II"
 ---
 
 This is a shell file for your ggplot exercise. Follow the prompts below and knit the document for homework.
